@@ -36,7 +36,10 @@
       "email": "E-mail or phone number",
       "message": "Your message",
       "send": "send message",
-      "terms": "Terms & Conditions"
+      "terms": "Terms & Conditions",
+      "test": "test page",
+      "fpara": "Treat your guests to a beautifully plated dinner, hand-crafted canapes or a casual BBQ. We are able to serve events from 2 to 2000 guests and always reasonable prices. Fresh, seasonal and simple cuisine. Food is our business and our passion. We use only the best organic ingredients and gluten and dairy free cooking. Successful catering is about organisation, high quality service, and great food. We are able to serve events from 2 to 2000 guests and always at reasonable prices.",
+      "spara": "Fresh, seasonal and simple cuisine. Food is our business and our passion. Successful catering is about organisation, high quality service, and great food. We use only the best organic ingredients and gluten and dairy free cooking. We are able to serve events from 2 to 2000 guests and always at reasonable prices."
     },
 
     "ru": {
@@ -75,7 +78,10 @@
       "email": "Эл. почта или номер телефона",
       "message": "Ваше сообщение",
       "send": "отправить",
-      "terms": "Условия и положения"
+      "terms": "Условия и положения",
+      "test": "тестовая страница",
+      "fpara": "Побалуйте своих гостей красиво сервированным ужином, канапе ручной работы или приготовлением барбекю в непринужденной обстановке. Мы можем обслуживать мероприятия от 2 до 2000 гостей и всегда по разумным ценам. Свежая, сезонная и простая кухня. Еда - это наш бизнес и наша страсть. Мы используем только лучшие органические ингредиенты, а также готовим без глютена и молочных продуктов. Успешный кейтеринг - это организация, высокое качество обслуживания и отличная еда. Мы можем обслужить мероприятия от 2 до 2000 гостей и всегда по разумным ценам.",
+      "spara": "Свежая, сезонная и простая кухня. Еда - это наш бизнес и наша страсть. Успешный кейтеринг - это организация, высокое качество обслуживания и отличная еда. Мы используем только лучшие органические ингредиенты, а также готовим без глютена и молочных продуктов. Мы можем обслужить мероприятия от 2 до 2000 гостей и всегда по разумным ценам."
     },
 
     "esp": {
@@ -114,7 +120,10 @@
       "email": "Correo electrónico o número de teléfono",
       "message": "Tu mensaje",
       "send": "enviar mensaje",
-      "terms": "Términos & Condiciones"
+      "terms": "Términos & Condiciones",
+      "test": "página de prueba",
+      "fpara": "Invite a sus invitados a una cena bellamente servida, canapés hechos a mano o una barbacoa informal. Somos capaces de atender eventos desde 2 hasta 2000 invitados y precios siempre razonables. Cocina fresca, de temporada y sencilla. La comida es nuestro negocio y nuestra pasión. Utilizamos solo los mejores ingredientes orgánicos y cocina sin gluten y sin lácteos. El catering exitoso se trata de organización, servicio de alta calidad y buena comida. Somos capaces de atender eventos desde 2 hasta 2000 invitados y siempre a precios razonables.",
+      "spara": "Cocina fresca, de temporada y sencilla. La comida es nuestro negocio y nuestra pasión. El catering exitoso se trata de organización, servicio de alta calidad y buena comida. Utilizamos solo los mejores ingredientes orgánicos y cocina sin gluten y sin lácteos. Somos capaces de atender eventos desde 2 hasta 2000 invitados y siempre a precios razonables. "
     }
   }
 }
